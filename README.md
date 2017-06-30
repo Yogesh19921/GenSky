@@ -19,4 +19,12 @@ If possible, i will provide with a script to pre process the dataset. Until then
        1. Get rid of unnecessary features from your dataset like flow or source port, destination port etc.
        2. Convert every feature to numerical fields. Eg. tcp-1 , udp-2, Anomalies- 1, normal traffic -2. 
           Use your own imagination. Refer to already provided dataset for hints.
+          
+ 
+### Running the Genetic Program on a dataset
+       1. After you have preprocessed, put all the datasets in the datasets folder.
+       2. The program is multithreaded, so it will simultaneously process all the datasets.
+          It might take long, if the dataset is huge like ISOT dataset.
+       3. Find the results in the output folder with corresponding file names.
+          Result looks something like this.
  ![picture alt](http://i.imgur.com/vebo1Qv.png )

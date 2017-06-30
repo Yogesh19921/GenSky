@@ -27,4 +27,8 @@ If possible, i will provide with a script to pre process the dataset. Until then
           It might take long, if the dataset is huge like ISOT dataset.
        3. Find the results in the output folder with corresponding file names.
           Result looks something like this.
+          Here in Train, 95% accuracy is for detecting attacks and 70.5% for detecting 
+          normal traffic.
+          Similarly in test, 96.19% accuracy is for detecting attacks and 
+          64.72% for detecting normal traffic.
  ![picture alt](http://i.imgur.com/vebo1Qv.png )

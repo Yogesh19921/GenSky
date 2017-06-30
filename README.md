@@ -31,4 +31,7 @@ If possible, i will provide with a script to pre process the dataset. Until then
           normal traffic.
           Similarly in test, 96.19% accuracy is for detecting attacks and 
           64.72% for detecting normal traffic.
- ![picture alt](http://i.imgur.com/vebo1Qv.png )
+ ![picture alt](http://i.imgur.com/vebo1Qv.png )   
+ 
+ ### Architecture and working of GP
+ Refer to the [wiki](https://github.com/Yogesh19921/GenSky/wiki)

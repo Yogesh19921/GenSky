@@ -15,6 +15,7 @@ Gensky is based on Linear Multi Objective Genetic Programming. Genetic programmi
    
 ### PreProcessing your dataset
 If possible, i will provide with a script to pre process the dataset. Until then,
+
        1. Get rid of unnecessary features from your dataset like flow or source port, destination port etc.
        2. Convert every feature to numerical fields. Eg. tcp-1 , udp-2, Anomalies- 1, normal traffic -2. 
           Use your own imagination. Refer to already provided dataset for hints.

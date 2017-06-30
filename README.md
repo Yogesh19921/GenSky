@@ -1,6 +1,7 @@
 # GenSky
 
 ## Genetic Anomaly Detector
+Gensky is based on Linear Multi Objective Genetic Programming. Genetic programming is a field of Computer Science which involves developing self evolving programs. Multi Objective Genetic Programming, hence, is a field to develop self evolving programs which are suited to achieve multiple objectives. Here, we have two objectives i) detecting attacks and ii) detecting normal traffic. Both the objectives are equally important and Multi Objective GP considers them both equally important.
 
 ### How to install
 
